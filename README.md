@@ -3,4 +3,4 @@
 
 # 1.Steam史低价格查询
 脚本名称：steam_game_search.py
-使用命令：/Steam + 游戏名（steam和游戏名之间需要添加空格）
+\n使用命令：/Steam + 游戏名（steam和游戏名之间需要添加空格）
