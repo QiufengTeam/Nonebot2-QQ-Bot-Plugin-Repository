@@ -1,0 +1,2 @@
+# -Nonebot2-QQ-
+一个适用于Nonebot2的QQ机器人插件仓库，有秋风Team成员编写
